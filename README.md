@@ -1,6 +1,8 @@
 # Hostloc Auto Get Points
 使用 GitHub Actions 自动获取 Hostloc 论坛积分
 
+3/3uptime
+
 ## 更新说明
 
 本仓库主要功能基本不会再改变，但是也会偶尔增加一些小更新，后续会在这里做更新通知。
